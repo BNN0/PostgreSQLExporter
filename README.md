@@ -1,6 +1,9 @@
 # PostgreSQL Database Exporter
 
 A tool with a graphical interface for exporting PostgreSQL databases to SQL files, allowing you to export the structure, the data, or both.
+<img width="901" height="532" alt="image" src="https://github.com/user-attachments/assets/50d546ad-8ed8-41ca-aa73-0a73cebf751d" />
+<img width="900" height="530" alt="image" src="https://github.com/user-attachments/assets/c13eafff-0549-43fa-b1ac-5f603008a4e7" />
+<img width="899" height="843" alt="image" src="https://github.com/user-attachments/assets/226d5c29-232f-4eda-aa4f-588523cee2c3" />
 
 ## Features
 
